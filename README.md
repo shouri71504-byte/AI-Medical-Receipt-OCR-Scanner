@@ -1,0 +1,1 @@
+# AI-Medical-Receipt-OCR-Scanner
